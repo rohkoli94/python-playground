@@ -1,0 +1,5 @@
+import os
+
+print("Current directory: ", os.getcwd())
+print("List contents of directory: ", os.listdir())
+
